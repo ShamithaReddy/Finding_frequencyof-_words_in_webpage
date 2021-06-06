@@ -1,4 +1,4 @@
-# Finding_frequencyof-_words_in_webpage
+# Finding_frequencyof_words_in_webpage
 
 find the frequency of words in a
 webpage. User can use urllib and BeautifulSoup to extract text
